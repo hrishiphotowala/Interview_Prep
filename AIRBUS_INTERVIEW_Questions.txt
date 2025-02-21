@@ -15,3 +15,5 @@ Question Asked in Airbus
 13.char  pointer used for stroing string 
 14.if we have line and a circle how to indentofy if it intersects or not 
 15.if we have point and an cuboid then how do we check if point is in the cuboid or not 
+16.How does COM programming is used ( Basics) 
+17.Inheritance used in c++/CAA
