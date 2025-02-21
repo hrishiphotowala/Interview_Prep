@@ -4,8 +4,7 @@ Question Asked in Airbus
 2.explained project - Mistake did't explained him the BOFAT just expasized on weldiGO 
 3.Explain how we extend the feature 
 4.how do we visulazie the feature /build 
-5.how it is open in spec tree
-6.key take away -> increase the empasis on expaining
+5.how it is open in spec tree .key take away -> increase the empasis on expaining
 7.how do we know that we can check if we can query to interface or not( HRESULT) 
 8.can we have two or more implementation for a same interface -> I have answered yes -> need to check 
 9.how do we share api to delimia to consume , and how do the use it
