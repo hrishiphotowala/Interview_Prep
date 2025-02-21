@@ -1,0 +1,17 @@
+Question Asked in Airbus 
+
+1.intro
+2.explained project - Mistake did't explained him the BOFAT just expasized on weldiGO 
+3.Explain how we extend the feature 
+4.how do we visulazie the feature /build 
+5.how it is open in spec tree
+6.key take away -> increase the empasis on expaining
+7.how do we know that we can check if we can query to interface or not( HRESULT) 
+8.can we have two or more implementation for a same interface -> I have answered yes -> need to check 
+9.how do we share api to delimia to consume , and how do the use it
+10.if we want to use any api form another workbench how to do it 
+11.string manupulation 
+12.release and delete difference 
+13.char  pointer used for stroing string 
+14.if we have line and a circle how to indentofy if it intersects or not 
+15.if we have point and an cuboid then how do we check if point is in the cuboid or not 
