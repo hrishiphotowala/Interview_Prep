@@ -17,3 +17,5 @@ Question Asked in Airbus
 15.if we have point and an cuboid then how do we check if point is in the cuboid or not 
 16.How does COM programming is used ( Basics) 
 17.Inheritance used in c++/CAA
+18.Difference between TIE and BOA 
+19.why we go for exe and dll , can we have UI with exe?
