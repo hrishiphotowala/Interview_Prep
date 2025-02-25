@@ -18,3 +18,4 @@ Question Asked in Airbus
 17.Inheritance used in c++/CAA
 18.Difference between TIE and BOA 
 19.why we go for exe and dll , can we have UI with exe?
+20.What are different macros used in CAA.
